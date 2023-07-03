@@ -1,4 +1,4 @@
-# Practicing TikZ 
+# Practicing TikZ with an Ecosocial Theory Diagram
 
 Recently I've had something of an obsession with the TikZ figure rendering system that comes with $\LaTeX$. 
 To better focus my learning and practice, I thought I'd work on recreating a relatively complicated figure that
@@ -6,6 +6,9 @@ was originally done in PowerPoint.
 
 While I think I'd make different stylistic or design choices, my thinking is that if I can replicate this figure's style,
 that's good practice towards being able to replicate other styles in general. 
+
+Overall, I'm quite happy with how this turned out, as I think the [(*exactly*) 100 lines of .tex code](ecosocial_theory_figure.tex) I wrote are 
+elegant considering how new I am with TikZ and they accomplish quite a lot!
 
 ### The Original Figure 
 
